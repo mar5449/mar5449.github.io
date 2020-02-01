@@ -1,0 +1,26 @@
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Formulario datos personales</title>
+  </head>
+  <body>
+    <h1>Crear cuenta...</h1>
+    <form action="signup.php" method="POST">
+      <!-- Formulario de datos personales -->
+      <fieldset>
+        <legend>Introduce tus datos personales...</legend>
+        Nombre: <input type="text" name="nombre" /> <br />
+        Apellidos: <input type="text" name="apellidos" /> <br />
+        Correo electrónico: <input type="text" name="correo" /> <br />
+        Sexo: <br />
+        <input type="radio" name="genero" value="Hombre" />Hombre <br />
+        <input type="radio" name="genero" value="Mujer" />Mujer <br />
+        <input type="radio" name="genero" value="Otros" />Otros <br />
+        Contraseña: <input type="password" name="contraseña" /> <br />
+        Repite contraseña: <input type="password" name="contraseña1" /> <br />
+        <br />
+        <input type="submit" value="Enviar" name="boton" />
+      </fieldset>
+    </form>
+  </body>
+</html>

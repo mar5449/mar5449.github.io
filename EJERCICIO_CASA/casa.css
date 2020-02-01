@@ -1,0 +1,158 @@
+.tejado {
+	background-color: red;
+	border-radius: 10px;
+	border-style: solid;
+	width: 1200px;
+	height: 200px;
+	position: relative;
+	margin: 0 auto;
+}
+.fachada {
+	background-color: #E8D1C3;
+	border-style: solid;
+	width: 1000px;
+	height: 600px;
+	position: relative;
+	margin: 0 auto;
+}
+.puerta {
+	background-color: #B8561A;
+	width: 200px;
+	height: 400px;
+	position: relative;
+	margin: 0 auto;
+	top: -406px;
+}
+.semi-circulo {
+     width: 190px; 
+     height: 100px; 
+     border: 5px ;
+     background: #B8561A;
+     -moz-border-radius: 100px 100px 0 0;
+     -webkit-border-radius: 100px 100px 0 0;
+     border-radius: 100px 100px 0 0;
+	 position: relative;
+	 top: -2270px;
+	 margin: 0 auto;	 
+}
+.marcoventana1 {
+	background-color: #96400C;
+	border-style: solid;
+	width: 250px;
+	height: 250px;
+	position: relative;
+	top: -950px;
+	right: 338px;
+	margin: 0 auto;
+}
+.marcoventana2 {
+	background-color: #96400C;
+	border-style: solid;
+	width: 250px;
+	height: 250px;
+	position: relative;
+	top: -1200px;
+	right: -338px;
+	margin: 0 auto;
+}
+.ventana1 {
+	background-color: #87E6F9;
+	border-style: solid;
+	width: 100px;
+	height: 100px;
+	position: relative;
+	top: -1440px;
+	right: 395px;
+	margin: 0 auto;
+}
+.ventana2 {
+	background-color: #87E6F9;
+	border-style: solid;
+	width: 100px;
+	height: 100px;
+	position: relative;
+	top: -1546px;
+	right: 285px;
+	margin: 0 auto;
+}
+.ventana3 {
+	background-color: #87E6F9;
+	border-style: solid;
+	width: 100px;
+	height: 100px;
+	position: relative;
+	top: -1542px;
+	right: 395px;
+	margin: 0 auto;
+}
+.ventana4 {
+	background-color: #87E6F9;
+	border-style: solid;
+	width: 100px;
+	height: 100px;
+	position: relative;
+	top: -1648px;
+	right: 285px;
+	margin: 0 auto;
+}
+.ventana5 {
+	background-color: #87E6F9;
+	border-style: solid;
+	width: 100px;
+	height: 100px;
+	position: relative;
+	top: -1860px;
+	right: -395px;
+	margin: 0 auto;
+}
+.ventana6 {
+	background-color: #87E6F9;
+	border-style: solid;
+	width: 100px;
+	height: 100px;
+	position: relative;
+	top: -1855px;
+	right: -285px;
+	margin: 0 auto;
+}
+.ventana7 {
+	background-color: #87E6F9;
+	border-style: solid;
+	width: 100px;
+	height: 100px;
+	position: relative;
+	top: -2072px;
+	right: -285px;
+	margin: 0 auto;
+}
+.ventana8 {
+	background-color: #87E6F9;
+	border-style: solid;
+	width: 100px;
+	height: 100px;
+	position: relative;
+	top: -2067px;
+	right: -395px;
+	margin: 0 auto;
+}
+.pomo {
+	width: 30px;
+    height: 30px;
+	border-style: solid;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: #5D2013;
+	top: -2000px;
+	right:45px;
+	margin: 0 auto;
+	position: relative;
+}
+.foto {
+	position: relative;
+	top: -2250px;
+	margin: 0 auto;
+	padding-right: 280px;
+	width: 955px;
+	height: 400px;
+}

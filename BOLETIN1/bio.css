@@ -1,0 +1,42 @@
+.div1 {
+    width: 600px;
+    height: 600px;
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 75px;
+    padding:30px;
+    outline: 20px dashed gold;
+}
+
+.div2 {
+    width: 600px;
+    height: 600px;
+    background-color: white;
+    padding:30px;
+    outline: 20px dashed gold;
+    position: relative;
+    left: 900px;
+    bottom: 660px;
+}
+
+.imagen {
+    float:right;
+    margin-left: 20px;
+}
+
+img {
+    width:220px;
+}
+
+p::first-letter {color: blue; font-size: 34px; font-weight: bold;}
+
+.parrafos {
+    font-size: 16px;
+    text-align: justify;
+    text-indent: 30px;
+    margin-top: -30px;
+}
+
+
+a:link {text-decoration: none; color:purple; font-size:125%;}
+a:visited {text-decoration: none; color:purple; font-size:125%;}
